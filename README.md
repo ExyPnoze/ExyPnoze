@@ -28,8 +28,8 @@ malware development, and adversary simulation.
 
 - Microsoft Certified: Security Operations Analyst (SC-200)
 - Maldev Academy - Ransomware development course
-- HTB CDSA - path completed, exam scheduled
-- HTB CPTS - Next step
+- HTB CDSA
+- HTB CPTS - ongoing
 
 ---
 
